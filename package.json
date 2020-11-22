@@ -21,6 +21,10 @@
         "design tokens",
         "design system"
     ],
-    "author": "Alicerce",
-    "licence": "MIT"
+    "author": "alexmfs",
+    "licence": "MIT",
+    "repository": {
+        "type": "git",
+        "directory": "https://github.com/alexmfs/curso-meiuca-theo.git"
+    }
 }
