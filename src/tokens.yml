@@ -1,0 +1,4 @@
+# List of all token files
+# Useful for documentation generation
+imports:
+ - ./color/index.yml

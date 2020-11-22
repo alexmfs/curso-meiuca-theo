@@ -1,0 +1,26 @@
+{
+    "name": "alicerce-init-tokens",
+    "version": "0.0.1",
+    "description": "Tokens base architeture",
+    "directories": {
+        "dist": "dist"
+    },
+    "files": [
+        "dist/",
+        "LICENSE",
+        "README.md"
+    ],
+    "devDependencies": {
+        "theo": "^8.1.5"
+    },
+    "scripts": {
+        "web": "theo src/tokens.yml --transform web --format scss --dest dist"
+    },
+    "keywords": [
+        "tokens",
+        "design tokens",
+        "design system"
+    ],
+    "author": "Alicerce",
+    "licence": "MIT"
+}
